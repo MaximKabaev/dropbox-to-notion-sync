@@ -1,0 +1,6 @@
+site_name: Dropbox to Notion Sync
+site_url: https://github.com/MaximKabaev/dropbox-to-notion-sync
+nav:
+    - Home: index.md
+    - About: about.md
+theme: readthedocs
